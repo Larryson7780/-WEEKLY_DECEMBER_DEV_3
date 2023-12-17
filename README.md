@@ -8,3 +8,7 @@ Lancer le serveur:
 ```shell
 python file.py
 ```
+
+```url
+127.0.0.1:8000
+```
