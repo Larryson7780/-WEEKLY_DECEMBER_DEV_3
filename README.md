@@ -2,7 +2,7 @@
 
 **Petit projet d'upload de fichier dans un serveur.**
 
-Le serveur peut voir les fichiers au meme niveau que le script python. La racine est le lieux qu'on place le script python
+Le serveur peut accéder et visualiser les fichiers situés au même niveau que le script Python. La "racine" du serveur est simplement l'emplacement où vous avez positionné le script Python
 
 Lancer le serveur:
 ```shell
