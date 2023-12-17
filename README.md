@@ -8,7 +8,7 @@ Lancer le serveur:
 ```shell
 python file.py
 ```
-
+Accéder à l'URL:
 ```url
-127.0.0.1:8000
+http://127.0.0.1:8000/
 ```
